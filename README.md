@@ -2,7 +2,7 @@
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [MARSHALX TGCALLS](https://github.com/MarshalX/tgcalls)
-### Available on telegram as @MusicDoy_Bot
+### Available on telegram as @MusicDoybot
 
 <h2> Features 🔥 </h2>
 
